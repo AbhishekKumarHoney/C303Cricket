@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "712590762796",
+    "firebase_url": "https://c303cricket.firebaseio.com",
+    "project_id": "c303cricket",
+    "storage_bucket": "c303cricket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712590762796:android:2913d90553f97113",
+        "android_client_info": {
+          "package_name": "com.example.honey.c303cricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712590762796-sukkm3gtoc44is4aa6cbg4c0edt6faou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.honey.c303cricket",
+            "certificate_hash": "b312489c0a3e1b815326fab7355f8334e7c59f8f"
+          }
+        },
+        {
+          "client_id": "712590762796-22iv84l44hvu736gkpdvttdcv988kdm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAudg1H8dtK1g_xGbjgkbVF4xWQHsclXPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712590762796-22iv84l44hvu736gkpdvttdcv988kdm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
